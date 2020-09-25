@@ -26,10 +26,10 @@
 
 
 
-- 🔭 I’m currently working on Idea.
+- 🔭 I’m currently working on Ideas.
 - 🌱 I’m currently learning more about design patterns.
 - 👯 I’m looking to collaborate on [Youtube]().
-- 🤔 I’m looking for help with road map write uo.
+- 🤔 I’m looking for help with road map write up.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @mrPrank](https://twitter.com/mr_prank_dev)
 - 😄 Pronouns: He/His
