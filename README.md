@@ -1,4 +1,4 @@
-## Hola, I'm [Rexford Asamoah!](www.defencify.ml) 👋
+## Hola, I'm [Rexford Asamoah!](www.defencify.ml) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexfordasamoah51&label=Views&color=blue&style=plastic" alt="rexfordasamoah" /> </p>
 
