@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexfordasamoah51&label=Views&color=blue&style=plastic" alt="rexfordasamoah" /> </p>
 
-<a href="https://twitter.com/Rexthedev">
-  <img align="left" alt="Rexford's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://linkedin.com/in/rexfordasamoah">
   <img align="left" alt="Rexford's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
