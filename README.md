@@ -35,8 +35,9 @@
 [![Twitter: MrPrank](https://img.shields.io/twitter/follow/Rexthedev?style=social)](https://twitter.com/Rexthedev)
 [![Linkedin: Rexford Asamoah](https://img.shields.io/badge/-rexfordasamoah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rexfordasamoah/)](https://www.linkedin.com/in/rexfordasamoah/)
 [![GitHub iampawan](https://img.shields.io/github/followers/rexfordasamoah51?label=follow&style=social)](https://github.com/rexfordasamoah51)
-
-
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
+[![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]() 
 
 **Languages and Tools:**  
 
