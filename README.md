@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on [Youtube]().
 - 🤔 I’m looking for help with road map write up.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @mrPrank](https://twitter.com/mr_prank_dev)
+- 📫 How to reach me: [Twitter - @mrPrank](https://twitter.com/Rexthedev)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours reading books everyday.
 
