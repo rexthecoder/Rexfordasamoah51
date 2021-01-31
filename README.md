@@ -1,11 +1,6 @@
 ## Hola, I'm [Rexford Asamoah!](www.defencify.ml) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexfordasamoah51&label=Views&color=blue&style=plastic" alt="rexfordasamoah" /> </p>
-[![Implementations](https://img.shields.io/badge/%F0%9F%92%A1-implementations-8C8E93.svg?style=flat)](https://github.com/kentcdodds/allcontributors/blob/master/other/IMPLEMENTATIONS.md) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
-[![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]()
-[![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]() 
-
 
 <a href="https://linkedin.com/in/rexfordasamoah">
   <img align="left" alt="Rexford's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
