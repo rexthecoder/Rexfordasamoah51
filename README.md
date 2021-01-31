@@ -33,7 +33,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 5 hours reading books everyday.
 
-[![Twitter: MrPrank](https://img.shields.io/twitter/follow/mr_prank_dev?style=social)](https://twitter.com/Rexthedev)
+[![Twitter: MrPrank](https://img.shields.io/twitter/follow/Rexthedev?style=social)](https://twitter.com/Rexthedev)
 [![Linkedin: Rexford Asamoah](https://img.shields.io/badge/-rexfordasamoah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rexfordasamoah/)](https://www.linkedin.com/in/rexfordasamoah/)
 [![GitHub iampawan](https://img.shields.io/github/followers/rexfordasamoah51?label=follow&style=social)](https://github.com/rexfordasamoah51)
 
