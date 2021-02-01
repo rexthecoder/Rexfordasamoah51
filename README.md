@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🔭 I’m currently working on Ideas.
 - 🌱 I’m currently learning more about design patterns.
